@@ -6,9 +6,9 @@
 How to Play:
 
 The board positions are numbered 1 through 9 as follows:
-1 | 2 | 3
+    1 | 2 | 3
 ---|---|---
- 4 | 5 | 6
+4 | 5 | 6
 ---|---|---
 7 | 8 | 9
 
